@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: 'gh-pages-vue-test'
+  publicPath: '/gh-pages-vue-test/'
 }
